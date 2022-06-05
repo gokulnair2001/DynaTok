@@ -1,16 +1,17 @@
-# DynaTok
-An on chain Dynamic NFT Generator
+# DynaTok 🪙
+An on chain Dynamic NFT Generator deployed on Ethereum chain. The node for the contract is provided by Alchemy.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+# NFT Gallery
+* The NFT is visible on [OpenSea](https://testnets.opensea.io/assets/mumbai/0xc213a5c559c59627d6408b9d8bd8471dfb3ad176/1)
 
-Try running some of the following tasks:
+# Libraries Used
+* HardHat
+* Openzeppelin
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+# Layer 2 Platforms
+* Polygon
+* Alchemy
+* OpenSea
+
+# Wana know more?
+* Do create an issue and I will answer your doubts!
